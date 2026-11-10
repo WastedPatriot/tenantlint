@@ -1,0 +1,244 @@
+[
+  {
+    "id": "f9538c32-e1d7-5860-b80e-88db2f557510",
+    "userPrincipalName": "amara.okafor@larkfield.example",
+    "isAdmin": true,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "d76256f1-f04e-5d7a-b70d-93c2bce45987",
+    "userPrincipalName": "ben.hale@larkfield.example",
+    "isAdmin": true,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "58c2df4a-27ec-5540-a210-927320663cba",
+    "userPrincipalName": "chloe.marsh@larkfield.example",
+    "isAdmin": true,
+    "isMfaRegistered": false,
+    "methodsRegistered": []
+  },
+  {
+    "id": "a4a638cb-150b-5971-b696-2b3d1cf9ecc7",
+    "userPrincipalName": "dev.patel@larkfield.example",
+    "isAdmin": true,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "eeefff9a-97be-5d54-b4cb-3ed6d252fd90",
+    "userPrincipalName": "elin.berg@larkfield.example",
+    "isAdmin": true,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "0da1bddc-624f-5fbf-b195-c8b92781564e",
+    "userPrincipalName": "farid.nazari@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "7fa37a65-c703-5780-863b-58b00d5be8ac",
+    "userPrincipalName": "grace.lindqvist@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "5a2f1295-19a5-5540-bb38-5dbcab98f911",
+    "userPrincipalName": "hugo.reyes@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "be76c490-ed64-5823-ae0d-9d78ce9168a0",
+    "userPrincipalName": "imani.mwangi@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": false,
+    "methodsRegistered": []
+  },
+  {
+    "id": "3620c720-7347-577f-84ec-28d300fff8b6",
+    "userPrincipalName": "jonas.falk@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "7335f1bc-2505-5c7b-b661-7654d2c797ac",
+    "userPrincipalName": "kira.okafor@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "8a9b35c1-d379-5535-8638-0b866bf4d074",
+    "userPrincipalName": "leo.hale@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "c9cba946-c3c8-5d73-b585-d26e2b3ead15",
+    "userPrincipalName": "mina.marsh@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "94775782-3d30-5afa-97cd-98f0d112d694",
+    "userPrincipalName": "noor.patel@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": false,
+    "methodsRegistered": []
+  },
+  {
+    "id": "9667a59e-05c3-5ae3-8da9-d134e1f8750b",
+    "userPrincipalName": "owen.berg@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "1c59c823-e1f2-5e08-96a5-25e9e93587b2",
+    "userPrincipalName": "priya.nazari@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "66543f25-d6e7-51ea-8b15-c31dec97ecda",
+    "userPrincipalName": "quinn.lindqvist@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "0a9018cc-d53e-5793-a6b4-2dd692b74603",
+    "userPrincipalName": "rosa.reyes@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": false,
+    "methodsRegistered": []
+  },
+  {
+    "id": "093eccee-3507-5506-8ff1-786b7f995b3c",
+    "userPrincipalName": "sami.mwangi@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "55d32553-eb14-5e10-a3a0-e370abda3fe7",
+    "userPrincipalName": "tess.falk@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "58133fa7-e420-553d-a21e-8af8b76e6bd8",
+    "userPrincipalName": "uma.okafor@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "dd1682d3-7528-54f8-bd7e-3639446056ce",
+    "userPrincipalName": "viktor.hale@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "11594cc2-faaf-5ed0-8297-b1966a240313",
+    "userPrincipalName": "wren.marsh@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": false,
+    "methodsRegistered": []
+  },
+  {
+    "id": "4b064c7f-abb2-5ea6-9d7c-6e4c561ae94c",
+    "userPrincipalName": "xavi.patel@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "843baf11-3133-5dcd-9dd2-b3bfea90e4d6",
+    "userPrincipalName": "yara.berg@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "1a6c0177-40d0-500d-8799-f0bed8b25a8a",
+    "userPrincipalName": "zane.nazari@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "d267834d-300c-5403-9b15-d46e8437ba9c",
+    "userPrincipalName": "ada.lindqvist@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  },
+  {
+    "id": "b7f4d475-2895-5e9c-8b88-639bb9190bb8",
+    "userPrincipalName": "bram.reyes@larkfield.example",
+    "isAdmin": false,
+    "isMfaRegistered": true,
+    "methodsRegistered": [
+      "microsoftAuthenticatorPush"
+    ]
+  }
+]

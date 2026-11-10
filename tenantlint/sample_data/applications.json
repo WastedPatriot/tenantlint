@@ -1,0 +1,46 @@
+[
+  {
+    "displayName": "Scan-to-Email Relay",
+    "appId": "ddae2efc-3b8d-5f74-8250-efbc1907fe1d",
+    "passwordCredentials": [
+      {
+        "displayName": "relay",
+        "startDateTime": "2024-08-23T09:00:00Z",
+        "endDateTime": "2026-08-23T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "displayName": "Timesheet Sync",
+    "appId": "3d73f6aa-c814-5828-818e-1b30be808f88",
+    "passwordCredentials": [
+      {
+        "displayName": "sync",
+        "startDateTime": "2025-11-16T09:00:00Z",
+        "endDateTime": "2026-11-13T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "displayName": "Render Farm Connector",
+    "appId": "1779f800-53cb-544c-b44f-d50145d11cd7",
+    "passwordCredentials": [
+      {
+        "displayName": "farm",
+        "startDateTime": "2026-07-24T09:00:00Z",
+        "endDateTime": "2031-07-23T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "displayName": "Backup Reporter",
+    "appId": "a9bb7100-4936-5f50-849c-24956522a7e8",
+    "passwordCredentials": [
+      {
+        "displayName": "report",
+        "startDateTime": "2026-10-02T09:00:00Z",
+        "endDateTime": "2027-03-31T09:00:00Z"
+      }
+    ]
+  }
+]

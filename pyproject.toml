@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tenantlint"
+version = "0.1.0"
+description = "Read-only security posture checks for Microsoft Entra ID tenants"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+authors = [{ name = "Dominic Askew" }]
+dependencies = ["requests>=2.31", "msal>=1.28"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+tenantlint = "tenantlint.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["tenantlint*"]
+
+[tool.setuptools.package-data]
+tenantlint = ["sample_data/*.json"]

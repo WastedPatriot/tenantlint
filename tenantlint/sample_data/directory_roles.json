@@ -1,0 +1,51 @@
+[
+  {
+    "id": "76694d23-61f4-5967-9337-2cae04a79466",
+    "displayName": "Global Administrator",
+    "roleTemplateId": "62e90394-69f5-4237-9190-012177145e10",
+    "members": [
+      {
+        "id": "f9538c32-e1d7-5860-b80e-88db2f557510",
+        "displayName": "Amara Okafor",
+        "userPrincipalName": "amara.okafor@larkfield.example"
+      },
+      {
+        "id": "d76256f1-f04e-5d7a-b70d-93c2bce45987",
+        "displayName": "Ben Hale",
+        "userPrincipalName": "ben.hale@larkfield.example"
+      },
+      {
+        "id": "58c2df4a-27ec-5540-a210-927320663cba",
+        "displayName": "Chloe Marsh",
+        "userPrincipalName": "chloe.marsh@larkfield.example"
+      },
+      {
+        "id": "a4a638cb-150b-5971-b696-2b3d1cf9ecc7",
+        "displayName": "Dev Patel",
+        "userPrincipalName": "dev.patel@larkfield.example"
+      },
+      {
+        "id": "eeefff9a-97be-5d54-b4cb-3ed6d252fd90",
+        "displayName": "Elin Berg",
+        "userPrincipalName": "elin.berg@larkfield.example"
+      },
+      {
+        "id": "17cd7ec4-cb7c-53df-a1da-8c9a35015c71",
+        "displayName": "Contact (structa)",
+        "userPrincipalName": "contact_structa.example#EXT#@larkfield.example"
+      }
+    ]
+  },
+  {
+    "id": "99ab56e6-198f-548a-afdf-ae4afc2c1134",
+    "displayName": "User Administrator",
+    "roleTemplateId": "fe930be7-5e62-47db-91af-98c3a49a38b1",
+    "members": [
+      {
+        "id": "7fa37a65-c703-5780-863b-58b00d5be8ac",
+        "displayName": "Grace Lindqvist",
+        "userPrincipalName": "grace.lindqvist@larkfield.example"
+      }
+    ]
+  }
+]

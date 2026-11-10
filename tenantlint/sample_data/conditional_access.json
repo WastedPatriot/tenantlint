@@ -1,0 +1,139 @@
+[
+  {
+    "id": "28a7de3b-7241-5468-9120-fbe380430979",
+    "displayName": "Require MFA for all users",
+    "state": "enabledForReportingButNotEnforced",
+    "conditions": {
+      "users": {
+        "includeUsers": [
+          "All"
+        ],
+        "excludeUsers": [],
+        "includeGroups": [],
+        "excludeGroups": [],
+        "includeRoles": [],
+        "excludeRoles": []
+      },
+      "applications": {
+        "includeApplications": [
+          "All"
+        ]
+      },
+      "clientAppTypes": [
+        "all"
+      ]
+    },
+    "grantControls": {
+      "operator": "OR",
+      "builtInControls": [
+        "mfa"
+      ],
+      "authenticationStrength": null
+    }
+  },
+  {
+    "id": "9bf69a1d-f099-5504-8629-5b1e5e80a7a2",
+    "displayName": "Require MFA for admins",
+    "state": "enabled",
+    "conditions": {
+      "users": {
+        "includeUsers": [],
+        "excludeUsers": [],
+        "includeGroups": [],
+        "excludeGroups": [],
+        "includeRoles": [
+          "62e90394-69f5-4237-9190-012177145e10"
+        ],
+        "excludeRoles": []
+      },
+      "applications": {
+        "includeApplications": [
+          "All"
+        ]
+      },
+      "clientAppTypes": [
+        "all"
+      ]
+    },
+    "grantControls": {
+      "operator": "OR",
+      "builtInControls": [
+        "mfa"
+      ],
+      "authenticationStrength": null
+    }
+  },
+  {
+    "id": "8a2b36e0-93e8-597c-a586-14acd98a4ea0",
+    "displayName": "Require compliant device",
+    "state": "enabled",
+    "conditions": {
+      "users": {
+        "includeUsers": [
+          "All"
+        ],
+        "excludeUsers": [
+          "0da1bddc-624f-5fbf-b195-c8b92781564e",
+          "7fa37a65-c703-5780-863b-58b00d5be8ac",
+          "5a2f1295-19a5-5540-bb38-5dbcab98f911",
+          "be76c490-ed64-5823-ae0d-9d78ce9168a0",
+          "3620c720-7347-577f-84ec-28d300fff8b6",
+          "7335f1bc-2505-5c7b-b661-7654d2c797ac",
+          "8a9b35c1-d379-5535-8638-0b866bf4d074",
+          "c9cba946-c3c8-5d73-b585-d26e2b3ead15"
+        ],
+        "includeGroups": [],
+        "excludeGroups": [],
+        "includeRoles": [],
+        "excludeRoles": []
+      },
+      "applications": {
+        "includeApplications": [
+          "All"
+        ]
+      },
+      "clientAppTypes": [
+        "all"
+      ]
+    },
+    "grantControls": {
+      "operator": "OR",
+      "builtInControls": [
+        "compliantDevice"
+      ],
+      "authenticationStrength": null
+    }
+  },
+  {
+    "id": "1bb43e0a-7f79-5c10-a1e9-dd87db68ec15",
+    "displayName": "Block high-risk countries (old)",
+    "state": "disabled",
+    "conditions": {
+      "users": {
+        "includeUsers": [
+          "All"
+        ],
+        "excludeUsers": [],
+        "includeGroups": [],
+        "excludeGroups": [],
+        "includeRoles": [],
+        "excludeRoles": []
+      },
+      "applications": {
+        "includeApplications": [
+          "All"
+        ]
+      },
+      "clientAppTypes": [
+        "all"
+      ]
+    },
+    "grantControls": {
+      "operator": "OR",
+      "builtInControls": [
+        "block"
+      ],
+      "authenticationStrength": null
+    }
+  }
+]
